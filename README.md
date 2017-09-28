@@ -3,4 +3,5 @@
 * Commits
  * Readme
  * Upload
-__by Axel Fiolle__
+ 
+by Axel Fiolle
